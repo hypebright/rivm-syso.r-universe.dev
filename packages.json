@@ -1,0 +1,30 @@
+[
+  {
+    "package": "ROvis.utils",
+    "url": "https://github.com/rivm-syso/ROvis.utils"
+  },
+  {
+    "package": "ROvis.ggplot2",
+    "url": "https://github.com/rivm-syso/ROvis.ggplot2"
+  },
+  {
+    "package": "ROvis.plotly",
+    "url": "https://github.com/rivm-syso/ROvis.plotly"
+  },
+  {
+    "package": "ROvis.echarts",
+    "url": "https://github.com/rivm-syso/ROvis.echarts"
+  },
+  {
+    "package": "ROvis.table",
+    "url": "https://github.com/rivm-syso/ROvis.table"
+  },
+  {
+    "package": "ROvis.shiny",
+    "url": "https://github.com/rivm-syso/ROvis.shiny"
+  },
+  {
+    "package": "ROvis",
+    "url": "https://github.com/rivm-syso/ROvis"
+  }
+]
